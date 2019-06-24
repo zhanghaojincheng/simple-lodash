@@ -23,5 +23,5 @@ function chunk(arr, size) {
   return chunkArr;
 }
 
-let a = chunk(arr, 2);
+let res = chunk(arr, 2);
 console.log(a);
